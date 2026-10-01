@@ -1,0 +1,3 @@
+name: "jorgeazevedo skills policy"
+version: "1.0.0"
+enforcement: warn # warn | block | off
